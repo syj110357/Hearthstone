@@ -1,0 +1,147 @@
+# depslib dependency file v1.0
+1471178801 source:c:\users\asuspc\desktop\ve280\hearthdtone\hearthstone\main.cpp
+	"Hearthstone.h"
+	<cstdlib>
+	<iostream>
+
+1471178622 source:c:\users\asuspc\desktop\ve280\hearthdtone\hearthstone\hearthstone.cpp
+	"Hearthstone.h"
+	<cstdlib>
+	<iostream>
+
+1471176099 c:\users\asuspc\desktop\ve280\hearthdtone\hearthstone\hearthstone.h
+	<string>
+	"hero.h"
+	"minion.h"
+
+1471167183 c:\users\asuspc\desktop\ve280\hearthdtone\hearthstone\hero.h
+	"weapon.h"
+
+1471152733 c:\users\asuspc\desktop\ve280\hearthdtone\hearthstone\weapon.h
+	<string>
+
+1471167183 source:c:\users\asuspc\desktop\ve280\hearthdtone\hearthstone\hero.cpp
+	"hero.h"
+	<iostream>
+	<cstdlib>
+	"Hearthstone.h"
+
+1471179560 c:\users\asuspc\desktop\ve280\hearthdtone\hearthstone\minion.h
+
+1471176405 source:c:\users\asuspc\desktop\ve280\hearthdtone\hearthstone\minion.cpp
+	"hero.h"
+	<iostream>
+	<cstdlib>
+	"Hearthstone.h"
+	"minion.h"
+	"hero.h"
+	"weapon.h"
+
+1471671852 source:c:\users\lenovo\desktop\ji\大二夏季\ve280\hearthdtone\hearthstone\main.cpp
+	"Hearthstone.h"
+	<cstdlib>
+	<iostream>
+
+1471660842 c:\users\lenovo\desktop\ji\大二夏季\ve280\hearthdtone\hearthstone\hearthstone.h
+	<string>
+	"hero.h"
+	"minion.h"
+	"hand.h"
+
+1471167183 c:\users\lenovo\desktop\ji\大二夏季\ve280\hearthdtone\hearthstone\hero.h
+	"weapon.h"
+
+1471152733 c:\users\lenovo\desktop\ji\大二夏季\ve280\hearthdtone\hearthstone\weapon.h
+	<string>
+
+1471182907 c:\users\lenovo\desktop\ji\大二夏季\ve280\hearthdtone\hearthstone\minion.h
+
+1471669854 c:\users\lenovo\desktop\ji\大二夏季\ve280\hearthdtone\hearthstone\hand.h
+	"Hearthstone.h"
+
+1471669854 source:c:\users\lenovo\desktop\ji\大二夏季\ve280\hearthdtone\hearthstone\hand.cpp
+	<iostream>
+	<cstdlib>
+	"Hearthstone.h"
+
+1471669379 source:c:\users\lenovo\desktop\ji\大二夏季\ve280\hearthdtone\hearthstone\hearthstone.cpp
+	"Hearthstone.h"
+	<cstdlib>
+	<iostream>
+
+1471660843 source:c:\users\lenovo\desktop\ji\大二夏季\ve280\hearthdtone\hearthstone\hero.cpp
+	"hero.h"
+	<iostream>
+	<cstdlib>
+	"Hearthstone.h"
+
+1471181686 source:c:\users\lenovo\desktop\ji\大二夏季\ve280\hearthdtone\hearthstone\minion.cpp
+	<iostream>
+	<cstdlib>
+	"Hearthstone.h"
+	"minion.h"
+	"hero.h"
+	"weapon.h"
+
+1473132187 source:c:\users\lenovo\desktop\ji\so_summer\ve280\hearthdtone\hearthstone\hand.cpp
+	<iostream>
+	<cstdlib>
+	"Hearthstone.h"
+
+1473225017 c:\users\lenovo\desktop\ji\so_summer\ve280\hearthdtone\hearthstone\hearthstone.h
+	<string>
+	"hero.h"
+	"minion.h"
+	"hand.h"
+	"spell.h"
+
+1471783876 c:\users\lenovo\desktop\ji\so_summer\ve280\hearthdtone\hearthstone\hero.h
+	"weapon.h"
+
+1471770129 c:\users\lenovo\desktop\ji\so_summer\ve280\hearthdtone\hearthstone\weapon.h
+	<string>
+
+1473225017 c:\users\lenovo\desktop\ji\so_summer\ve280\hearthdtone\hearthstone\minion.h
+
+1472273134 c:\users\lenovo\desktop\ji\so_summer\ve280\hearthdtone\hearthstone\hand.h
+	"Hearthstone.h"
+	"spell.h"
+
+1473225017 source:c:\users\lenovo\desktop\ji\so_summer\ve280\hearthdtone\hearthstone\hearthstone.cpp
+	"Hearthstone.h"
+	<cstdlib>
+	<iostream>
+
+1473132236 source:c:\users\lenovo\desktop\ji\so_summer\ve280\hearthdtone\hearthstone\hero.cpp
+	"hero.h"
+	<iostream>
+	<cstdlib>
+	"Hearthstone.h"
+
+1473225325 source:c:\users\lenovo\desktop\ji\so_summer\ve280\hearthdtone\hearthstone\main.cpp
+	"Hearthstone.h"
+	<cstdlib>
+	<iostream>
+
+1473225017 source:c:\users\lenovo\desktop\ji\so_summer\ve280\hearthdtone\hearthstone\minion.cpp
+	<iostream>
+	<cstdlib>
+	"Hearthstone.h"
+	"minion.h"
+	"hero.h"
+	"weapon.h"
+
+1471780399 source:c:\users\lenovo\desktop\ji\so_summer\ve280\hearthdtone\hearthstone\weapon.cpp
+	<iostream>
+	<cstdlib>
+	"Hearthstone.h"
+
+1473225291 c:\users\lenovo\desktop\ji\so_summer\ve280\hearthdtone\hearthstone\spell.h
+	<string>
+	"Hearthstone.h"
+
+1473225303 source:c:\users\lenovo\desktop\ji\so_summer\ve280\hearthdtone\hearthstone\spell.cpp
+	<iostream>
+	<cstdlib>
+	"Hearthstone.h"
+
